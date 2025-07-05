@@ -66,5 +66,8 @@ then **splay trees adapt beautifully**:
 ```bash
 python splaytree.py testcase1.txt
 ```
-## Contributors :
-[@sashank810](
+## 👥 Contributors
+
+- [@sashank-810](https://github.com/sashank-810)
+- [@skmanoj2006](https://github.com/skmanoj2006)
+- [@Vishnutejas-2005](https://github.com/Vishnutejas-2005)
