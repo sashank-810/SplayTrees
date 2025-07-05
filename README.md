@@ -13,7 +13,6 @@ We aim to show that **splay trees achieve an *amortized* O(1) access time** for 
 - `splaytree.py` — Translated Python implementation (functionally equivalent).
 - `testcase1.txt` to `testcase7.txt` — Test case files containing insertions and search queries.
 - `Plots for Test Cases.docx` — Plots showing access cost trends for different test cases.
-- `README.md` — You’re reading it!
 
 ---
 
